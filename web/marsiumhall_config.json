@@ -1,5 +1,16 @@
 {
-	
+	"period_settings" : [
+		{
+			"name" : "christmas",
+			"open_date" : "2023-12-01",
+			"close_date": "2023-12-26"
+		},
+		{
+			"name" : "newyear",
+			"open_date" : "2023-12-26",
+			"close_date": "2023-01-16"
+		}
+	],
 	"placeholder" : "v2023-12-02a",
 	"birthday" : [
 		{
