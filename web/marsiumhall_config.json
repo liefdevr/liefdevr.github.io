@@ -1,4 +1,12 @@
 {
+	"organ" : [
+		{
+			"name" : "material_gold",
+			"day_of_week" : "Fri",
+			"open_time_span" : "06:00:00",
+			"close_time_span" : "08:00:00"
+		}
+	],
 	"period_settings" : [
 		{
 			"name" : "christmas",
