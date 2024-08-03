@@ -1,4 +1,26 @@
 {
+	"portal_list" : [
+		{
+			"world_id" : "wrld_63588bca-48b7-4d2e-be58-46ccd5a02d03",
+			"portal_name" : "時計",
+			"open_time_span" : "某ダリの時計ワールド\n<size=4>\nステンシル抜きとUV回転に対応したシェーダーで文字盤と針を描いて、貼り付けたメッシュをボーンでぐんにゃりさせています。記憶の固執感をだしたいときにぴったりのインテリア。</size>"
+		},
+		{
+			"world_id" : "wrld_d869dc81-ca6d-45e0-8161-c96f40ff1422",
+			"portal_name" : "トンネル",
+			"open_time_span" : "ただのトンネルのワールド\n<size=4>\n大きな公園を作ろうとして放置されていたもの。たぶんライトプローブの練習を兼ねていたと思いますが、プロジェクトを探しても見当たらないので在庫限りです。</size>"
+		},
+		{
+			"world_id" : "wrld_abd92607-dec2-47e2-ba00-3e09789fc176",
+			"portal_name" : "旧ホール",
+			"open_time_span" : "旧ホールのワールド\n<size=4>\n2021年にSDK3移行したころのプロジェクト。まだパイプオルガンがなかったり、Questカメラが標準搭載されるまで活躍した疑似PCVRカメラがあったりしてちょっと懐かしい。</size>"
+		},
+		{
+			"world_id" : "wrld_031d6249-7bdc-4204-b8af-123f204fe561",
+			"portal_name" : "最初のエントランス",
+			"open_time_span" : "あるテストワールド\n<size=4>\nリリースされて間もないQuest版にも「祭り」が\n欲しい…という思いから生まれたなにか</size>"
+		}
+	],
 	"organ" : [
 		{
 			"name" : "material_gold",
